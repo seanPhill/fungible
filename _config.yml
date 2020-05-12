@@ -3,7 +3,6 @@ title:            Fungible
 tagline:          'Surveillance-free sound money'
 description:      'An open investigation into <a href="https://en.wikipedia.org/wiki/Fungibility" target="_blank">fungibility</a> and the need for surveillance-free sound money.'
 url:              https://fungible.cc
-baseurl:          
 paginate:         5
 
 # About and contact
