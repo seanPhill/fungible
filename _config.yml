@@ -1,26 +1,20 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
+title:            Fungible
+tagline:          'Surveillance-free sound money'
+description:      'An open investigation into <a href="https://en.wikipedia.org/wiki/Fungibility" target="_blank">fungibility</a> and the need for surveillance-free sound money.'
+url:              https://fungible.cc
+baseurl:          ''
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+# About and contact
+author:
+  name:           'Joshua Marriage'
+  url:            https://twitter.com/satoshua
 
-github:
-  repo:           https://github.com/poole/hyde
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Custom vars
+version:          1.0.0
