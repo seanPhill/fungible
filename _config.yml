@@ -1,15 +1,15 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+title:            Fungible
+tagline:          'Surveillance-free sound money'
+description:      'An open investigation into <a href="https://en.wikipedia.org/wiki/Fungibility" target="_blank">fungibility</a> and the need for surveillance-free sound money.'
+url:              https://fungible.cc
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Joshua Marriage'
+  url:            https://twitter.com/satoshua
 
 # Gems
 plugins:
@@ -17,4 +17,4 @@ plugins:
   - jekyll-gist
 
 # Custom vars
-version:          3.0.0
+version:          1.0.0
