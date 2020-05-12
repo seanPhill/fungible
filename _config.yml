@@ -3,13 +3,16 @@ title:            Fungible
 tagline:          'Surveillance-free sound money'
 description:      'An open investigation into <a href="https://en.wikipedia.org/wiki/Fungibility" target="_blank">fungibility</a> and the need for surveillance-free sound money.'
 url:              https://fungible.cc
-baseurl:          ''
+baseurl:          /
 paginate:         5
 
 # About and contact
 author:
   name:           'Joshua Marriage'
   url:            https://twitter.com/satoshua
+
+github:
+  repo:           https://github.com/satoshua/fungible
 
 # Gems
 plugins:
