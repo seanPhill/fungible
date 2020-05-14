@@ -6,7 +6,7 @@
 
 We are taking aim at the 'Big Brothers' of blockchain.
 
-- Have an idea for a contriubution? Feel free to [open an issue](https://github.com/satoshua/fungible/issues/new). 
+- Have an idea for a contribution? Feel free to [open an issue](https://github.com/satoshua/fungible/issues/new). 
 - Want to get updates? You can [subscribe here](https://rssmailer.app/s/fungible) or send our [RSS feed](https://fungible.cc/atom.xml) elsewhere.
 
 ## Usage
