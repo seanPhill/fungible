@@ -9,10 +9,6 @@ We are taking aim at the 'Big Brothers' of blockchain.
 - Have an idea for a contribution? Feel free to [open an issue](https://github.com/satoshua/fungible/issues/new). 
 - Want to get updates? You can [subscribe here](https://rssmailer.app/s/fungible) or send our [RSS feed](https://fungible.cc/atom.xml) elsewhere.
 
-## Usage
-
-Fungible is built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
-
 ## Development
 
 Fungible has two branches, but only one is used for active development.
